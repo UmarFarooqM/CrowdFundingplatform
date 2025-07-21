@@ -11,7 +11,7 @@ import {
   Calendar, 
   Users, 
   DollarSign, 
-  Heart, 
+  Heart,
   Share2, 
   Gift,
   ArrowLeft,
