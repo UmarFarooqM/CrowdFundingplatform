@@ -1,1 +1,0 @@
-# CrowdFundingplatform
